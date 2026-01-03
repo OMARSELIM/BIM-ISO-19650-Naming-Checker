@@ -1,0 +1,5 @@
+{
+  "name": "BIM ISO 19650 Naming Checker",
+  "description": "A professional tool to validate Revit and Navisworks filenames against ISO 19650 standards with AI-powered suggestions.",
+  "requestFramePermissions": []
+}
